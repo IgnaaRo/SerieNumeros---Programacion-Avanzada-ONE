@@ -1,6 +1,8 @@
 # SerieNumeros_ProgramacionAvanzada_ONE
 
-crear un proyecto en java y resolver el siguiente ejercicio:
--generar una serie de 500 números enteros aleatorios entre 10 y 1000
--calcular el promedio de estos números así como también la suma total de los mismos.
--mostrar el resultado de estos valores obtenidos
+Este programa genera 500 números enteros aleatorios entre 10 y 1000.
+Después calcula la suma total y el promedio, y muestra los resultados por consola.
+
+Resultado
+
+<img width="223" height="78" alt="Screenshot_13" src="https://github.com/user-attachments/assets/aa8a6372-f088-40be-ab55-eedf9c3a2be1" />
