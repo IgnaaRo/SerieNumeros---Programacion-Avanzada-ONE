@@ -5,6 +5,6 @@ Después calcula la suma total y el promedio, y muestra los resultados por conso
 
 Resultado
 
-<img width="223" height="78" alt="Screenshot_13" src="https://github.com/user-attachments/assets/aa8a6372-f088-40be-ab55-eedf9c3a2be1" />
+<img width="180" height="53" alt="Screenshot_14" src="https://github.com/user-attachments/assets/e33a4751-f7b2-4196-868c-2e86ae14b97e" />
 
 ⚠️ Los valores cambian en cada ejecución debido a la aleatoriedad.
